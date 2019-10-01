@@ -7,5 +7,7 @@ Hi, I am [Tarandeep Singh](https://github.com/taran9873/).
 
 Hi, I am [Taran from Dtu](https://github.com/tara98/).
 
+Hi, I am [Lakshmi Kittur](https://github.com/lakshmikittur/).
+
 Hi, I am Vikas.
 
