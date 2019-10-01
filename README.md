@@ -1,7 +1,7 @@
 # HacktoberFest-2019
 A repository for beginners for making their first pull request.
 
-# Digital Ocean is giving away free Merchandise
+# Digital Ocean is hosting an event [hacktoberfest](https://hacktoberfest.digitalocean.com/) to support Open source.
 
 ## Step 1: First you need a [github](https://github.com) account,
 
