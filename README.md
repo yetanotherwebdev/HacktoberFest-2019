@@ -16,6 +16,7 @@ A repository for beginners for making their first pull request.
 syntax: (introduce yourself)[your name](your github profile link)
 
 ignore initial curly brackets
+
 **square and curly bracket for name and github link are necessary**
 
 for eg : Hi,I am [Tarandeep singh](https://github.com/taran9873)
