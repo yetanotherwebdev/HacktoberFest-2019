@@ -11,7 +11,7 @@ A repository for beginners for making their first pull request.
 
 ## Step 3: :star2: and fork this repository
 
-## Step 4: just open [Index.md](https://github.com/taran9873/HacktoberFest-2019/blob/master/Index.md) and write a line to introduce yourself.
+## Step 4: just open [Index.md](https://github.com/taran9873/HacktoberFest-2019/blob/master/Index.md) and make changes.
 
 syntax: (introduce yourself)[your name](your github profile link)
 
